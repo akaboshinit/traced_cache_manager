@@ -12,9 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ^0.13.4
+  http: ^1.0.0
   flutter_cache_manager: ^3.3.0
-  firebase_performance: ^0.8.0+3
+  firebase_performance: ^0.10.1
 
 dev_dependencies:
   flutter_test:
